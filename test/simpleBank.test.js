@@ -1,4 +1,4 @@
-/*
+ /*
 
 The public version of the file used for testing can be found here: https://gist.github.com/ConsenSys-Academy/ce47850a8e2cba6ef366625b665c7fba
 
